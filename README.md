@@ -28,15 +28,9 @@ Simple to understand, easy to play, and surprisingly addictive.
 
 ---
 
-# 🎥 Gameplay Demo
+## 🎥 Gameplay Demo
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/282d3427-b153-405c-a308-be6cd7f18c8a" width="900" alt="BunnyBlock Demo"/>
-
-### 🐰 BunnyBlock in Action
-
-</div>
+![BunnyBlock Demo](demo.gif)
 
 ---
 
